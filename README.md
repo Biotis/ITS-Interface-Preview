@@ -26,11 +26,33 @@ ITS(지능형 튜터링 시스템) 연구에서 사용된 사용자 인터페이
 
 ---
 
+## UI 전체 구조
+
+| UI_Structure |
+|----------------|
+| ![Login](assets/UI_Structure.png) |
+
+
+---
+
 ## UI 설계
 
-| 로그인 화면 | 홈 화면 | Study(ex: C3) |
-|---------|--------------|----------------|
-| ![Login](assets/login.png) | ![Home](assets/home.png) | ![Study](assets/studyC3.png) |
+| 로그인 화면 | 메뉴 |
+|----------------|----------------|
+| ![Login](assets/Login.png) | ![Study](assets/Menu.png) |
+
+| C1_Home | C1_Study |
+|----------------|----------------|
+| ![Login](assets/C1_Home.png) | ![Study](assets/C1_Study.png) |
+
+| C2_Home | C2_Study | C2_Study_2 |
+|----------------|----------------|----------------|
+| ![Login](assets/C2_Home.png) | ![Study](assets/C2_Study.png) | ![Study](assets/C2_Study_2.png) |
+
+| C3_Home | C3_Study | C3_Study_2|
+|----------------|----------------|----------------|
+| ![Login](assets/C2_Home.png) | ![Study](assets/C3_Study.png) | ![Study](assets/C3_Study_2.png) |
+
 
 ---
 
