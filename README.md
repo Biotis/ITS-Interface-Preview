@@ -17,7 +17,7 @@ ITS(지능형 튜터링 시스템) 연구에서 사용된 사용자 인터페이
 - C3: Personalized Storybased Learning을 통한 영단어 학습
 
 ### 2. 구현 기술
-- Python, TypeScript, Open API
+- Python, TypeScript, GPT API
 - 백엔드(FastAPI + MongoDB)
 - 프론트엔드(React + Vite)
 
