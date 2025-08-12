@@ -31,7 +31,7 @@ C2와 C3는 스토리 진행 과정에서 사용자의 선택에 따라 분기�
 ### 2. 구현 기술
 인터페이스: FastAPI + MongoDB 기반의 백엔드와 React(Vite) 기반의 프론트엔드로 개발했으며, GPT API를 사용해 스토리 기반 학습 기능을 구현했습니다.
 
-백엔드: FastAPI로 Fast API 설계, MongoDB로 사용자 활동 로그 저장 및 관리
+백엔드: FastAPI로 구현, MongoDB로 사용자 활동 로그 저장 및 관리
 
 프론트엔드: React(Vite) 기반 UI, Condition별 화면 전환 및 학습 플로우 구현
 
