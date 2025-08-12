@@ -37,21 +37,35 @@ C2와 C3는 스토리 진행 과정에서 사용자의 선택에 따라 분기�
 ### 3. 실험 참여자 활동 데이터 수집
 
 연구에 필요한 사용자 활동 데이터는 Condition별 MongoDB Collection에 구조화하여 저장했습니다.
+
 수집되는 데이터는 다음과 같습니다.
 
 피험자 정보 데이터,
+
 학습 세션 로그 데이터,
+
 Story_Setting 데이터,
+
 상호작용 로그 데이터({
+
   generate_count	스토리 생성 버튼 클릭 횟수,
+  
   choice_selected_count	스토리 분기 선택 횟수,
+  
   submit_score_count	스토리 평가 제출 횟수,
+  
   save_count	스토리 저장 횟수,
+  
   favorite_add_count	즐겨찾기 추가 횟수,
+  
   favorite_remove_count	즐겨찾기 제거 횟수,
+  
   option_select_count	스토리 옵션 선택 횟수,
+
   option_save_count	스토리 옵션 저장 횟수,
+  
   page_nav_count	페이지 이동 횟수 
+  
   ... })
 
 등 다양한 피험자 활동 로그 데이터가 수집됩니다.
