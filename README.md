@@ -30,28 +30,32 @@ ITS(지능형 튜터링 시스템) 연구에서 사용된 사용자 인터페이
 
 | UI_Structure |
 |----------------|
-| ![Login](assets/UI_Structure.png) |
+| ![Login](assets/ITS_Interface_UI_Structure.jpg) |
 
 
 ---
 
 ## UI 설계
 
-| 로그인 화면 | 메뉴 |
-|----------------|----------------|
-| ![Login](assets/Login.png) | ![Study](assets/Menu.png) |
+| 로그인 화면 |
+|----------------|
+| ![Login](assets/Login_Page.jpg) |
 
 | C1_Home | C1_Study |
 |----------------|----------------|
-| ![Login](assets/C1_Home.png) | ![Study](assets/C1_Study.png) |
+| ![C1_Login](assets/C1_Home.jpg) | ![C1_Study_0](assets/C1_Study_0.jpg) | ![C1_Study_1](assets/C1_Study_1.jpg) |
 
 | C2_Home | C2_Study | C2_Study_2 |
 |----------------|----------------|----------------|
-| ![Login](assets/C2_Home.png) | ![Study](assets/C2_Study.png) | ![Study](assets/C2_Study_2.png) |
+| ![C2_Login](assets/C2_Home.jpg) | ![C2_Study_0](assets/C2_Study_0.jpg) | ![C2_Study_1](assets/C2_Study_1.jpg) |
 
 | C3_Home | C3_Study | C3_Study_2|
 |----------------|----------------|----------------|
-| ![Login](assets/C2_Home.png) | ![Study](assets/C3_Study.png) | ![Study](assets/C3_Study_2.png) |
+| ![C3_Login](assets/C3_Home.jpg) | ![C3_Study_0](assets/C3_Study_0.jpg) | ![C3_Study_1](assets/C3_Study_1.jpg) |
+
+| Exercise_Home | all_words_exercise | bookmarked_words_exercise | Exercise_Answer|
+|----------------|----------------|----------------|----------------|
+| ![Exercise_Home](assets/Exercise_Home.jpg) | ![all_words_exercise](assets/all_words_exercise.jpg) | ![bookmarked_words_exercise](assets/bookmarked_words_exercise.jpg) | ![Exercise_Answer](assets/Exercise_Answer.jpg) |
 
 
 ---
